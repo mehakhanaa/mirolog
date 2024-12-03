@@ -39,7 +39,7 @@ finally did rolling upgrade of go micro service
 
 </br>
 
-![alt text](https://github.com/mehakhanaa/mirolog/blob/master/images/arch.png)
+![alt text](https://github.com/mehakhanaa/mirolog/blob/main/images/arch.png)
 
 </br>
 
@@ -47,7 +47,7 @@ finally did rolling upgrade of go micro service
 
 ## Technology stack
 
-![alt text](https://github.com/mehakhanaa/mirolog/blob/master/images/stack.png)
+![alt text](https://github.com/mehakhanaa/mirolog/blob/main/images/stack.png)
 
 
 
