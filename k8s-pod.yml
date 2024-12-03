@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: mirolog
+  labels:
+    language: go
+    env: test
+spec:
+  containers:
+  - image: mirolog:1.0.0
+    name: mirolog
+    ports:
+    - containerPort: 8080
+      protocol: TCP

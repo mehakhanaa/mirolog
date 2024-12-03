@@ -1,0 +1,11 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: mirolog
+  labels:
+    app: mirolog
+    tier: frontend
+spec:
+  backend:
+    serviceName: mirolog
+    servicePort: 8080
